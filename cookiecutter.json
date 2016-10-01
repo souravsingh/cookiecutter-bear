@@ -5,6 +5,5 @@
     "project_name": "Name of the project",
     "repo_name": "{{ cookiecutter.project_name|replace(' ', '_') }}",
     "project_short_description": "A short description of the project",
-    "open_source_license": ["MIT", "BSD", "Not open source"],
     "version": "0.1.0",
 }
